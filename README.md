@@ -19,3 +19,13 @@ npm run build:darwin
 ```
 
 此为 MacOS 打包，win 环境缺少机器，并未探索
+
+## 功能
+
+目前有的功能：
+
+- 仓库自定义分类
+- 仓库自定义备注
+- 仓库模糊搜索
+
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fvp6k98go1g30tl0hznpd.gif)
